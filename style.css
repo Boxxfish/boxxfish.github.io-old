@@ -1,0 +1,16 @@
+.txt-1 {
+	color: #eeeeee;
+}
+
+.bg-1 {
+	background-color: #eeeeee;
+}
+
+.txt-2 {
+	color: #222222;
+	
+}
+
+.bg-2 {
+	background: linear-gradient(to bottom, #111111 0%, #333333 100%);
+}
