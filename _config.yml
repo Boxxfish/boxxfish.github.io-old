@@ -30,7 +30,7 @@ github_username:  boxxfish
 # Build settings
 theme: texture
 plugins:
-  - jekyll-feed
+  - jekyll-seo-tag
 
 texture:
   title: Ben Giacalone (Boxfish)
